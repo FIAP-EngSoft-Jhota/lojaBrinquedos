@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
 
-      <h1>LOJA BRINBRINPATAPIM</h1>
+      <h1>LOJA BRINBRINPATAPIMN</h1>
       <p1>O melhor lugar para comprar brinquedos no país!</p1>
 
     </header>
