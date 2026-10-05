@@ -5,7 +5,7 @@ const Header = () => {
     <header>
 
       <h1>LOJA BRINBRINPATAPIM</h1>
-      <p1>O melhor lugar para comprar brinquedos!</p1>
+      <p1>O melhor lugar para comprar brinquedos no país!</p1>
 
     </header>
   )
