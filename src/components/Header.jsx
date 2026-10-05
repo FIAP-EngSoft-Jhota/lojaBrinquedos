@@ -2,9 +2,12 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>
-      
-    </div>
+    <header>
+
+      <h1>LOJA BRINBRINPATAPIMN</h1>
+      <p1>O melhor lugar para comprar brinquedos no país!</p1>
+
+    </header>
   )
 }
 
